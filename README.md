@@ -6,6 +6,7 @@ Repositorio contendo os dados e notebook do projeto final de PCO114
 2. Primeiro instalar as dependencias:
   * ```pip install jupyter_dash```
   * ```pip install dash_bootstrap_components```
+  * ```pip install xgboost```
 3. Rodar o documento .py e entrar no endereço, provavelmente será: http://127.0.0.1:8050/
   * ```python testeVis.py```
 
