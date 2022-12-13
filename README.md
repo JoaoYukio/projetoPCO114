@@ -8,7 +8,7 @@ Repositorio contendo os dados e notebook do projeto final de PCO114
   * ```pip install dash_bootstrap_components```
   * ```pip install xgboost```
 3. Rodar o documento .py e entrar no endereço, provavelmente será: http://127.0.0.1:8050/
-  * ```python testeVis.py```
+  * ```python projetoFinal.py```
 
 # Link para rodar no [Google Colab](https://colab.research.google.com/drive/1mDIjCWsZv7WwGenjUWf0Rf18dsXkMxYC?usp=sharing)
    
